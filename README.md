@@ -2,7 +2,7 @@
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dokyun-kim4&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokyun-kim4&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokyun-kim4&layout=donut)]
 <!--
 **dokyun-kim4/dokyun-kim4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
