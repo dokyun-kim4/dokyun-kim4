@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  
+### My name is Dokyun, a sophomore studying robotics engineering at Olin College of Engineering.
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dokyun-kim4&show_icons=true)  
