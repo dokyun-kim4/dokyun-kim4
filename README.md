@@ -1,12 +1,10 @@
 ### Hi there 👋  
-### My name is Dokyun, a sophomore studying robotics engineering at Olin College of Engineering.
-
+My name is Dokyun Kim, a sophomore studying robotics engineering at Olin College of Engineering.  
+I'm passionate about learning about computer vision and its applications in the field of robotics.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dokyun-kim4&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokyun-kim4&layout=donut) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokyun-kim4&layout=compact) 
 <!--
-**dokyun-kim4/dokyun-kim4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
