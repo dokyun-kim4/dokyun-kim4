@@ -1,5 +1,5 @@
 ### Hi! 👋  
-My name is Dokyun Kim, a junior studying computational robotics engineering at Olin College of Engineering.  
+My name is Dokyun Kim, a junior studying computational robotics at Olin College of Engineering.  
 I'm passionate about computer vision & machine learning and its applications in the field of robotics.
 
 - 🔭 I’m currently working on:
