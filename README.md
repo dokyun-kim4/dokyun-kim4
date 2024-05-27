@@ -10,6 +10,8 @@ I'm passionate about computer vision & machine learning and its applications in 
    - ROS2 in Python
    - ROS2 Simulators
    - OpenCV
+ 
+You can see my past projects [here](https://dokyun-kim4.github.io/portfolio/).
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dokyun-kim4&show_icons=true)  
  
