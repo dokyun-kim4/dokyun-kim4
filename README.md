@@ -3,8 +3,7 @@ My name is Dokyun Kim, a junior studying computational robotics at Olin College 
 I'm passionate about computer vision & machine learning and its applications in the field of robotics.
 
 - 🔭 I’m currently working on:
-   - A ROS2 package for weed detection
-   - A ROS2 package for farm navigation
+   - An automatic weeder robot for Olin's Agricultural Robotics Research
 
 - 🌱 I’m currently learning:
    - ROS2 in Python
