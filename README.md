@@ -12,9 +12,9 @@ I'm passionate about computer vision & machine learning and its applications in 
  
 You can see my past projects [here](https://dokyun-kim4.github.io/portfolio/).
 
+<!--
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dokyun-kim4&show_icons=true)  
  
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokyun-kim4&layout=compact)
 Here are some ideas to get you started:
 
