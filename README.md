@@ -1,9 +1,11 @@
 ### Hi! 👋  
-My name is Dokyun Kim, a junior studying computational robotics at Olin College of Engineering.  
+My name is Dokyun Kim, a junior studying robotics at Olin College of Engineering.  
 I'm passionate about computer vision & machine learning and its applications in the field of robotics.
 
 - 🔭 I’m currently working on:
-   - An automatic weeder robot for Olin's Agricultural Robotics Research
+   - An automatic weeder robot for Olin's Robotics Lab
+   - A structure-from-motion pipeline
+   - RL-based robot navigation
 
 - 🌱 I’m currently learning:
    - ROS2 in Python
