@@ -4,14 +4,6 @@ I'm passionate about computer vision & machine learning and its applications in 
 
 - 🔭 I’m currently working on:
    - An automatic weeder robot for Olin's Robotics Lab
-   - A structure-from-motion pipeline
-   - RL-based manipulator control
-
-- 🌱 I’m currently learning:
-   - ROS2 in Python
-   - ROS2 Simulators
-   - Rust
-   - PyTorch
  
 You can see my past projects [here](https://dokyun-kim4.github.io/portfolio/).
 
