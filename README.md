@@ -1,9 +1,10 @@
 ### Hi! 👋  
-My name is Dokyun Kim, a junior studying robotics at Olin College of Engineering.  
-I'm passionate about computer vision & machine learning and its applications in the field of robotics.
+My name is Dokyun Kim, a senior studying robotics at Olin College of Engineering.  
+I'm passionate about computer vision & machine learning and how it can be used to improve human-robot interaction!
 
 - 🔭 I’m currently working on:
-   - An automatic weeder robot for Olin's Robotics Lab
+   - A personal project with HuggingFace's SO100 arm
+   - A proof-of-concept systems for instructional reading games in collaboration with Boston University Wheelock Institute for the Science of Education (WISE)
  
 You can see my past projects [here](https://dokyun-kim4.github.io/portfolio/).
 
