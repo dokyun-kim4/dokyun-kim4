@@ -1,18 +1,10 @@
-My name is Dokyun Kim, a senior studying robotics at Olin College of Engineering.   
-You can see my past projects [here](https://dokyun-kim4.github.io/portfolio/).
+My name is Dokyun Kim, a senior studying robotics at Olin College of Engineering.
+Incoming CMU Masters of Robotics (MSR) student
 
-<!--
+You can see all my projects [here](https://sites.google.com/view/dkim-portfolio/home).
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dokyun-kim4&show_icons=true)  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokyun-kim4&layout=compact)
 Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
