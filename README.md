@@ -1,5 +1,5 @@
 My name is Dokyun Kim, a senior studying robotics at Olin College of Engineering.  
-Incoming CMU Masters of Robotics (MSR)
+Incoming Masters of Robotics (MSR) @ CMU Robotics Institute
 
 You can see all my projects [here](https://sites.google.com/view/dkim-portfolio/home).
 
